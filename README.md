@@ -2,7 +2,6 @@
 Glad to see you here! I am a DevOps Engineer. Doing automation with DevOps tools and techniques with cloud is what I do!
 
 
-![alt text] (file:///home/imran/Pictures/blog-image-naming-of-devops-engineers_2021.png)
 
 A Bit of My Intro:
 
