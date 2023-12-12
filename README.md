@@ -1,7 +1,7 @@
 # imranlatif0345
 Glad to see you here! I am a DevOps Engineer. Doing automation with DevOps tools and techniques with cloud is what I do!
 
-![Git Profile](https://github.com/imranlatif0345/imranlatif0345/assets/113752887/09c2077d-960e-4aa8-a467-7ac73e0d961e)
+![blog-image-naming-of-devops-engineers_2021](https://github.com/imranlatif0345/imranlatif0345/assets/113752887/9236f3f3-b966-4962-8c55-d0d511131f7d)
 
 
 A Bit of My Intro:
