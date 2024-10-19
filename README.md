@@ -25,12 +25,12 @@ Passionate about building robust systems, I strive to improve the efficiency and
 
 <br>
 
-<a href="https://github.com/syedmusaali359">
+<a href="https://github.com/imranlatif0345">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedmusaali359&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/syedmusaali359">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=syedmusaali359&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Syed Musa Ali's GitHub Stats" />
+<a href="https://github.com/imranlatif0345">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=syedmusaali359&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Imran Latif GitHub Stats" />
 </a>
 
 <br>
