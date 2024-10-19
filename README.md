@@ -65,7 +65,7 @@ Passionate about building robust systems, I strive to improve the efficiency and
 
 _Quote by the Roman general "Publius Flavius Vegetius Renatus" [Vegetius](https://www.amazon.com/RE-MILITARI-VEGETIUS-Complete-Official/dp/1697849075/)_
 
-#<br>[![Syed Musa Ali's GitHub Banner](./assets/GitHubheader.png)](https://syedmusaali359.github.io/portfolio/)
+#<br>[![Imran Latif GitHub Banner](./assets/GitHubheader.png)](https://imranlatif0345.github.io/portfolio/)
 #[![Visits Badge](https://badges.pufler.dev/visits/syedmusaali359/syedmusaali)]()
 #[![Years Badge](https://badges.pufler.dev/years/syedmusaali359)]()
 
