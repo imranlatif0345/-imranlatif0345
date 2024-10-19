@@ -1,6 +1,4 @@
-[![Syed Musa Ali's GitHub Banner](./assets/GitHubheader.png)](https://syedmusaali359.github.io/portfolio/)
-[![Visits Badge](https://badges.pufler.dev/visits/syedmusaali359/syedmusaali)]()
-[![Years Badge](https://badges.pufler.dev/years/syedmusaali359)]()
+
 
 Hey there 👋
 
